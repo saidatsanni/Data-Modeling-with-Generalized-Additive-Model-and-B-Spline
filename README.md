@@ -1,6 +1,6 @@
-# Data Modeling with Generalized Additive Model and B-Spline
+# Data Modeling with Generalized Additive Model (GAM) and B-Spline
 
-This project focuses on the nonlinear modeling of Wages, Credit scoring, and Motorcycle datasets using the Generalized Additive Model and Basis spline (B-spline). Using B-spline allows the incorporation of flexibility in the models. In line with this, varying numbers of knots, degrees of polynomials, and degrees of freedom are considered. 
+This project focuses on the nonlinear modeling of Wages, Credit scoring, and Motorcycle datasets using the Generalized Additive Model and Basis spline (B-spline). Using B-splines allows the incorporation of flexibility in the models. In line with this, varying numbers of knots, degrees of polynomials, and degrees of freedom are considered to identify the best model that fits the data sets. 
 
 **Goal:** 
 
@@ -13,7 +13,7 @@ Three different datasets are considered: Wages, Credit Scoring, and Motorcycle d
 **Statistical Techniques**
 
 We consider statistical techniques and models such as:
-* Generalized Additive Model for Univariate Data
+*  Generalized Additive Model for Univariate Data
 *  Generalized Additive Model for Multivariate Data
 *  B-spline with different numbers of knots, degrees of polynomials, degrees of freedom, and truncated power basis function.
 
